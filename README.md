@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jgc777
+- 👀 I’m interested in Minecraft ⛏
+- 🌱 I’m currently learning makecode arcade 
