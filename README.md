@@ -1,3 +1,3 @@
 - 👋 Hola, soy @jgc777
 - 👀 Estoy interesado en Minecraft, Fortnite, Windows, Tecnología, Mecánica, y programación 
-- 🌱 Estoy aprendiendo Batch y Html, y desarrollando HTML2EXE (Ver mi repositorio)
+- 🌱 Estoy aprendiendo Batch y Html, y desarrollando HTML2EXE (Ver mi repositorio anclado en mi perfil)
