@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @jgc777
-- 👀 I’m interested in Minecraft ⛏
-- 🌱 I’m currently learning makecode arcade 
+- 👋 Hola, soy @jgc777
+- 👀 Estoy interesado en Minecraft, Fortnite, Windows, Tecnología, Mecánica, y programación 
+- 🌱 Estoy aprendiendo Batch y Html, y desarrollando HTML2EXE (Ver mi repositorio)
