@@ -1,4 +1,4 @@
-👋 Hola, soy [jgc777](http://tinyurl.com/Jgc777)
+👋 Hola, soy [Jgc7](http://tinyurl.com/Jgc777)
 Algunos de mis proyectos son:
 - [Win10IE](tinyurl.com/Win10IE-web)
 - [VNCHack](tinyurl.com/VNCHack-web)
