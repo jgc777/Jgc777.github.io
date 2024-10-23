@@ -5,6 +5,6 @@ Algunos de mis proyectos son:
 - Otros, algunos publicados y otros por publicar...
 
 Puedes encontrarme en:
-- [YouTube]((http://bit.ly/7777j7))
+- [YouTube](http://bit.ly/7777j7)
 - [Discord](http://discord.com/users/889045882874495036)
 - [Twitch](https://www.twitch.tv/jgc9884)
