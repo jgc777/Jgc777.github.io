@@ -1,4 +1,4 @@
-👋 Hola, soy Jgc7. Conocido por unos pocos por ser el creador de NanoLand o proporcionar ayuda en los proyectos OG de Fortnite (no formo parte de estos).
+👋 Hola, soy Jgc7. Conocido por unos pocos por ser el creador de NanoLand o proporcionar ayuda en los proyectos OG de Fortnite.
 Algunos de mis proyectos son:
 - [Win10IE](./Win10IE)
 - [HTML2EXE](./HTML2EXE)
