@@ -4,3 +4,5 @@
 - You can see more in [my gravatar](https://gravatar.com/jgc9884) or [my YouTube](http://bit.ly/7777j7).
 
 [![Discord](https://discord-readme-badge.vercel.app/api?id=889045882874495036)](https://discord-readme-badge.vercel.app/api?id=889045882874495036)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jgc9884)
