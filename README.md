@@ -1,7 +1,3 @@
----
-layout: default
-title: About
----
 👋 Hi, I'm *Jgc7*.
 - 💬 Ask me about Windows, Minecraft, Scratch, C#, Kali Linux, video editing, maths...
 - 📫 How to reach me: [jgc-7@outlook.com](mailto:jgc-7@outlook.com) or [discord](http://discord.com/users/889045882874495036)
