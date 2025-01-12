@@ -4,14 +4,37 @@
 - You can see more in my [gravatar](https://gravatar.com/jgc9884) or my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1).
 - My public projects:
 
-<iframe src="./repos/" width="100%" frameborder="0" id="repo-iframe" onload="resizeIframe()"></iframe>
+<ul id="repo-list"></ul>
 <script>
-  function resizeIframe() {
-    const iframe = document.getElementById('repo-iframe');
-    const iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
-    const iframeHeight = iframeDocument.body.scrollHeight;
-    iframe.style.height = iframeHeight + 'px';
+  const username = "jgc777";
+  async function fetchRepos() {
+    try {
+      const response = await fetch(`https://api.github.com/users/${username}/repos`);
+      if (!response.ok) {
+        throw new Error("Error obtaining repos");
+      }
+      const repos = await response.json();
+      const repoList = document.getElementById("repo-list");
+      repos.forEach(repo => {
+        const repoNameLower = repo.name.toLowerCase();
+        const usernameLower = username.toLowerCase();
+        if (repoNameLower === usernameLower || repoNameLower === `${usernameLower}.github.io`) {
+          return;
+        }
+        const listItem = document.createElement("li");
+        const link = document.createElement("a");
+        const pagesUrl = `https://${username}.github.io/${repo.name}`;
+        link.href = repo.has_pages ? pagesUrl : repo.html_url; // Priorizar GitHub Pages
+        link.textContent = repo.name;
+        listItem.appendChild(link);
+        repoList.appendChild(listItem);
+      });
+    } catch (error) {
+      console.error(error);
+    }
   }
+  fetchRepos();
 </script>
+
 
 [![Discord](https://discord-readme-badge.vercel.app/api?id=889045882874495036)](https://discord-readme-badge.vercel.app/api?id=889045882874495036)
