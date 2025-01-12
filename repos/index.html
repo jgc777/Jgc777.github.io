@@ -13,6 +13,10 @@
       const repoList = document.getElementById("repo-list");
 
       repos.forEach(repo => {
+        if (repo.name === username || repo.name === `${username}.github.io`) {
+          return;
+        }
+
         const listItem = document.createElement("li");
         const link = document.createElement("a");
 
