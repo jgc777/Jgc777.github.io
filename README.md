@@ -6,5 +6,3 @@
 
 
 [![Discord](https://discord-readme-badge.vercel.app/api?id=889045882874495036)](https://discord-readme-badge.vercel.app/api?id=889045882874495036)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jgc9884)
