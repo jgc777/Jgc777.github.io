@@ -37,4 +37,4 @@ My public projects:
 </script>
 
 
-[![Discord](https://discord-readme-badge.vercel.app/api?id=889045882874495036)](https://discord-readme-badge.vercel.app/api?id=889045882874495036)
+[![Discord](https://discord-readme-badge.vercel.app/api?id=889045882874495036)](http://discord.com/users/889045882874495036)
