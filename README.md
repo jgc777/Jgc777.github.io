@@ -4,4 +4,6 @@
 - You can see more in my [gravatar](https://gravatar.com/jgc9884) or my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1).
 - [My public projects](./repos)
 
+<iframe src="./repos/" width="800" height="600" frameborder="0" allowfullscreen></iframe>
+
 [![Discord](https://discord-readme-badge.vercel.app/api?id=889045882874495036)](https://discord-readme-badge.vercel.app/api?id=889045882874495036)
