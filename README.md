@@ -4,7 +4,7 @@
 - You can see more in my [gravatar](https://gravatar.com/jgc9884) or my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1).
 - My public projects:
 
-<u2 id="repo-list"></ul>
+<u2 id="repo-list"></u2>
 
 - My github stats:
 
