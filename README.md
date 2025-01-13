@@ -4,6 +4,6 @@
 - You can see more in my [gravatar](https://gravatar.com/jgc9884) or my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1).
 
 My public projects:
-<ul id="repo-list"></ul><script src="./GitHub-repos/getrepos.js"></script><script>fetchRepos("jgc777", document.getElementById('repo-list'))</script>
+<ul id="repo-list"></ul><script src="./GetReposbyUser/GetReposbyUser.js"></script><script>GetReposbyUser("jgc777", document.getElementById('repo-list'))</script>
 
 [![Discord](https://discord-readme-badge.vercel.app/api?id=889045882874495036)](http://discord.com/users/889045882874495036)
