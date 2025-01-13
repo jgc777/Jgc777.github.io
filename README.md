@@ -4,7 +4,7 @@
 - You can see more in my [gravatar](https://gravatar.com/jgc9884) or my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1).
 - My public projects:
 
-<ul><li><ul id="repo-list"></ul></li></ul><script src="./GetReposbyUsername/GetReposbyUsername.js"></script><script>GetReposbyUsername("jgc777", document.getElementById('repo-list'))</script>
+<ul style="display: none;"><li><ul id="repo-list"></ul></li></ul><script src="./GetReposbyUsername/GetReposbyUsername.js"></script><script>GetReposbyUsername("jgc777", document.getElementById('repo-list'))</script>
 
 - My github stats:
 
