@@ -4,7 +4,7 @@
 - You can see more in my [gravatar](https://gravatar.com/jgc9884) or my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1).
 - My public projects:
 
-<ul style="list-style: none;"><li><ul id="repo-list" style="list-style: disc;"></ul></li></ul><script src="./GetReposbyUsername/GetReposbyUsername.js"></script><script>GetReposbyUsername("jgc777", document.getElementById('repo-list'))</script>
+<ul style="list-style: none;"><li><ul id="repo-list" style="list-style: disc;"></ul></li></ul><script src="./GitHubRepoAPI/GitHubRepoAPI.js"></script><script>GetReposbyUsername("jgc777", document.getElementById('repo-list')); const token = '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';</script><!-- I know this is an API key -->
 
 - My github stats:
 
