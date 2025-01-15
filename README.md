@@ -6,6 +6,7 @@
 
 <ul style="list-style: none;"><li><ul id="repo-list" style="list-style: disc;"></ul></li></ul><script src="./GitHubRepoAPI/demo/defaultapikey.js"></script>
 <script>
+let attemps = 0;
 function checkRepoList() {
     console.log(`Appending the repo list (atempt #${++attempts})`);
     const repoList = document.getElementById('repo-list');
