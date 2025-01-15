@@ -6,9 +6,9 @@
 
 <ul style="list-style: none;"><li><ul id="repo-list" style="list-style: disc;"></ul></li></ul><script src="./GitHubRepoAPI/demo/defaultapikey.js"></script>
 <script>
-let attemps = 0;
+let attempts = 0;
 function checkRepoList() {
-    console.log(`Appending the repo list (atempt #${++attempts})`);
+    console.log(`Appending the repo list (attempt #${++attempts})`);
     const repoList = document.getElementById('repo-list');
     if (repoList && repoList.children.length === 0) appendRepos("jgc777", repoList);
     else clearInterval(intervalId);
