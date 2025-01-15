@@ -14,7 +14,7 @@ function checkRepoList() {
     else clearInterval(intervalId);
     console.log(`Success! (atempt #${attempts})`);
 }
-const intervalId = setInterval(checkRepoList, 1000); // Verifica cada segundo
+const intervalId = setInterval(checkRepoList, 1000);
 </script>
 
 - This is my Discord status:
