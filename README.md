@@ -12,7 +12,6 @@ function checkRepoList() {
     const repoList = document.getElementById('repo-list');
     if (repoList && repoList.children.length === 0) appendRepos("jgc777", repoList);
     else clearInterval(intervalId);
-    console.log(`Success! (atempt #${attempts})`);
 }
 const intervalId = setInterval(checkRepoList, 1000);
 </script>
