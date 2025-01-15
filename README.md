@@ -6,12 +6,14 @@
 
 <ul style="list-style: none;"><li><ul id="repo-list" style="list-style: disc;"></ul></li></ul><script src="./GitHubRepoAPI/demo/defaultapikey.js"></script>
 <script>
-function checkAndAppendRepos() {
+function checkRepoList() {
+    console.log(`Appending the repo list (atempt #${++attempts})`);
     const repoList = document.getElementById('repo-list');
     if (repoList && repoList.children.length === 0) appendRepos("jgc777", repoList);
     else clearInterval(intervalId);
+    console.log(`Success! (atempt #${attempts})`);
 }
-const intervalId = setInterval(checkAndAppendRepos, 1000); // Verifica cada segundo
+const intervalId = setInterval(checkRepoList, 1000); // Verifica cada segundo
 </script>
 
 - This is my Discord status:
