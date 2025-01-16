@@ -1,7 +1,7 @@
 👋 Hi, I'm *Jgc7*.
-- I like Windows, Minecraft, Scratch, C#, JavaScript, Kali Linux, video editing, maths...
+- I like Windows, Minecraft, Scratch, C#, JavaScript, Kali Linux, video editing, action movies, guitar, engineering, maths...
 - How to reach me: [jgc-7@outlook.com](mailto:jgc-7@outlook.com) or [discord](http://discord.com/users/889045882874495036)
-- Here are my [gravatar](https://gravatar.com/jgc9884) and my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1)
+- Here are my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1), my [Scratch](https://scratch.mit.edu/users/Technic_com/) (don't look at it, its horrible) and my [Twitch](https://www.twitch.tv/jgc9884) (empty)
 - Here are my public projects:
 
 <ul style="list-style: none;"><li><ul style="list-style: disc;"><li><a href="http://projecthub.jgc.linkpc.net">Project Hub</a></li></ul><ul id="repo-list" style="list-style: disc;"></ul></li></ul><script src="./GitHubRepoAPI/simplified.js"></script>
