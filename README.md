@@ -4,7 +4,7 @@
 - Here are my [gravatar](https://gravatar.com/jgc9884) and my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1)
 - Here are my public projects:
 
-<ul style="list-style: none;"><li><ul style="list-style: disc;"><li><a href="http://projecthub.jgc.linkpc.net">Project Hub</a></li></ul></li><li><ul id="repo-list" style="list-style: disc;"></ul></li></ul><script src="./GitHubRepoAPI/simplified.js"></script>
+<ul style="list-style: none;"><li><ul style="list-style: disc;"><li><a href="http://projecthub.jgc.linkpc.net">Project Hub</a></li></ul><ul id="repo-list" style="list-style: disc;"></ul></li></ul><script src="./GitHubRepoAPI/simplified.js"></script>
 
 - Here is my Discord status:
 
