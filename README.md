@@ -4,6 +4,7 @@
 - Here are my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1), my [Scratch](https://scratch.mit.edu/users/Technic_com/) (don't look at it, its horrible) and my [Twitch](https://www.twitch.tv/jgc9884) (empty)
 - Here are my public projects:
 
+<a hidden href="https://jgc.linkpc.net">The list is only available on the web!<a>
 <ul style="list-style: none;"><li><ul id="repo-list" style="list-style: disc;"></ul></li></ul>
 
 - Here is my Discord status:
