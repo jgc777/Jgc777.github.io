@@ -4,7 +4,7 @@
 - Here are my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1), my [Scratch](https://scratch.mit.edu/users/Technic_com/) (don't look at it, its horrible) and my [Twitch](https://www.twitch.tv/jgc9884) (empty)
 - Here are my public projects:
 
-<ul style="list-style: none;"><ul id="repo-list" style="list-style: disc;"></ul></li></ul>
+<ul style="list-style: none;"><li><ul id="repo-list" style="list-style: disc;"></ul></li></ul>
 
 - Here is my Discord status:
 
