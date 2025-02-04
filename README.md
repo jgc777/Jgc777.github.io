@@ -20,5 +20,5 @@
 - And here is my local time (Madrid, Spain):
 
 <div align="center">
-    <iframe src="https://free.timeanddate.com/clock/i9r3azjl/n141/fs30/fcfff/tc252525/pc252525/ftbi/th1/ts1/ta1" frameborder="0" width="147" height="36"></iframe>
+    <iframe src="https://free.timeanddate.com/clock/i9r3azjl/n141/fs30/fcfff/tct/pct/ftbi/th1/ts1/ta1" frameborder="0" width="147" height="36" allowtransparency="true"></iframe>
 </div>
