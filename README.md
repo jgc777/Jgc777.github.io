@@ -1,7 +1,7 @@
 👋 Hi, I'm *Jgc7*.
 - I like Windows, Fortnite (not Epic Games), Minecraft, Scratch, C#, JavaScript, Kali Linux, video editing, movies, guitar, engineering, maths...
-- How to reach me: [jgc-7@outlook.com](mailto:jgc-7@outlook.com) or [Discord](http://discord.com/users/889045882874495036)
-- Here is my [YouTube](https://www.youtube.com/channel/UCCfLGV3QvExntjvWGbPjOUQ?sub_confirmation=1)
+- How to reach me: [jgc-7@outlook.com](./email/) or [Discord](./discord/)
+- Here is my [YouTube](./youtube/)
 - Here are my public projects:
 
 <ul style="list-style: none;"><li><a hidden href="https://jgc.linkpc.net">The list is only available on the web!</a><ul id="repo-list" style="list-style: disc;"></ul></li></ul>
