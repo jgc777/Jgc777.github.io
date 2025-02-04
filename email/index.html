@@ -3,9 +3,14 @@
 <head>
     <meta http-equiv="refresh" content="0;url=mailto:jgc-7@outlook.com">
     <script type="text/javascript">
-        window.onload = window.location.href = "mailto:jgc-7@outlook.com";
+        window.onload = function() {
+            window.location.href = "mailto:jgc-7@outlook.com";
+            sleep(2000);
+            window.close();
+        };
     </script>
 </head>
 <body>
+    <p>Loading...</p>
 </body>
 </html>
