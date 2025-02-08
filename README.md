@@ -1,8 +1,18 @@
-👋 Hi, I'm *Jgc7*.
-- I like Windows, Fortnite (not Epic Games), Minecraft, Scratch, C#, JavaScript, Kali Linux, video editing, movies, guitar, engineering, maths...
+👋 Hi, I'm ***Jgc7***.
+- I like:
+    - Windows
+    - Kali Linux & pentesting
+    - Fortnite & Minecraft
+    - C#
+    - JavaScript
+    - Video editing
+    - Movies
+    - Music & playing the guitar
+    - Engineering
+    - Maths
 - How to reach me: [jgc@jgc.linkpc.net](mailto:jgc@jgc.linkpc.net) or [Discord](./discord/)
-- Here is my [YouTube](./youtube/)
-- Here are my public projects:
+- I have a [YouTube channel](./youtube/)
+- And here are my public GitHub projects:
 
 <ul style="list-style: none;">
     <li>
@@ -11,14 +21,9 @@
     </li>
 </ul>
 
-- Here is my Discord status:
-
-<div align="center">
+<div align="left">
     <img  src="https://discord-readme-badge.vercel.app/api?id=889045882874495036" width="300px" alt="discord status" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);">
 </div>
-
-- And here is my local time (Madrid, Spain):
-
-<div align="center">
+<div align="right">
     <iframe src="https://free.timeanddate.com/clock/i9r3azjl/n141/fs30/fcfff/tct/pct/ftbi/th1/ts1/ta1" frameborder="0" width="147" height="36" allowtransparency="true"></iframe>
 </div>
