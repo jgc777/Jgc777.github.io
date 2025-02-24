@@ -1,19 +1,22 @@
-👋 Hi, I'm *Jgc7*.
-- I like:
+## 👋 Hi, I'm *Jgc7*.
+
+
+### Interests
     - Windows
     - Kali Linux & pentesting
     - Fortnite & Minecraft
-    - C#
-    - JavaScript
+    - C# & JavaScript
     - Video editing
     - Movies
-    - Music & playing the guitar
-    - Engineering
-    - Maths
-- How to reach me: [jgc@jgc.linkpc.net](mailto:jgc@jgc.linkpc.net) or [Discord](./discord/)
-- I have a [YouTube channel](./youtube/)
-- And here are my public GitHub projects:
+    - Music & guitars
+    - Engineering & Maths
 
+### How to reach me
+- Email: [jgc@jgc.linkpc.net](mailto:jgc@jgc.linkpc.net)
+- Discord: [jgc9884](./discord/)
+- I also have a [YouTube channel](./youtube/)
+
+### Public GitHub repositories
 <ul style="list-style: none;">
     <li>
         <a hidden href="https://jgc.linkpc.net">The list is only available on the web!</a>
@@ -21,6 +24,7 @@
     </li>
 </ul>
 
+### My status / local time
 <table>
     <tr>
         <td>
