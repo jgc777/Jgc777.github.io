@@ -2,14 +2,14 @@
 
 
 ### Interests
-    - Windows
-    - Kali Linux & pentesting
-    - Fortnite & Minecraft
-    - C# & JavaScript
-    - Video editing
-    - Movies
-    - Music & guitars
-    - Engineering & Maths
+- Windows
+- Kali Linux & pentesting
+- Fortnite & Minecraft
+- C# & JavaScript
+- Video editing
+- Movies
+- Music & guitars
+- Engineering & Maths
 
 ### How to reach me
 - Email: [jgc@jgc.linkpc.net](mailto:jgc@jgc.linkpc.net)
