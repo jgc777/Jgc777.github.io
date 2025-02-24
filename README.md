@@ -1,7 +1,7 @@
-## 👋 Hi, I'm *Jgc7*.
+## 👋 Hi, I'm *Jgc7*
 
 
-### Interests
+### What do I like
 - Windows
 - Kali Linux & pentesting
 - Fortnite & Minecraft
@@ -16,7 +16,7 @@
 - Discord: [jgc9884](./discord/)
 - I also have a [YouTube channel](./youtube/)
 
-### Public GitHub repositories
+### My public GitHub repositories
 <ul style="list-style: none;">
     <li>
         <a hidden href="https://jgc.linkpc.net">The list is only available on the web!</a>
@@ -24,7 +24,6 @@
     </li>
 </ul>
 
-### My status / local time
 <table>
     <tr>
         <td>
