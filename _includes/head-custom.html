@@ -7,5 +7,8 @@
 <script src="./GitHubRepoAPI/simplified.js"></script>
 <script type="text/javascript">
   // window.onload = function() {document.getElementsByClassName('credits right')[0].innerHTML = 'Hosted on GitHub Pages - Theme by mattgraham';};
-  window.onload = function() {remove(document.getElementById('title'));};
+  window.onload = function() {
+    var titleElement = document.getElementById('title');
+    titleElement?.remove();
+  };
 </script>
