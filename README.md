@@ -20,7 +20,7 @@
 
 ### My public GitHub repositories
 <a hidden href="https://jgc.linkpc.net">The list is only available on the web!</a>
-<ul id="repo-list" style="list-style: disc;"></ul>
+<ul id="repo-list"></ul>
 
 <table>
     <tr>
