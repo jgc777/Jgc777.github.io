@@ -19,12 +19,8 @@
 - More socials: [guns.lol/jgc](https://guns.lol/jgc)
 
 ### My public GitHub repositories
-<ul style="list-style: none;">
-    <li>
-        <a hidden href="https://jgc.linkpc.net">The list is only available on the web!</a>
-        <ul id="repo-list" style="list-style: disc;"></ul>
-    </li>
-</ul>
+<a hidden href="https://jgc.linkpc.net">The list is only available on the web!</a>
+<ul id="repo-list" style="list-style: disc;"></ul>
 
 <table>
     <tr>
