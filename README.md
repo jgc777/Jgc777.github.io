@@ -13,8 +13,10 @@
 
 ### How to reach me
 - Email: [jgc@jgc.linkpc.net](mailto:jgc@jgc.linkpc.net)
+- GitHub: [jgc777](./github/)
 - Discord: [jgc9884](./discord/)
-- I also have a [YouTube channel](./youtube/)
+- YouTube: [Jgc7](./youtube/)
+- All my socials: [guns.lol/jgc](https://guns.lol/jgc)
 
 ### My public GitHub repositories
 <ul style="list-style: none;">
