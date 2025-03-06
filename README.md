@@ -16,7 +16,7 @@
 - GitHub: [jgc777](./github/)
 - Discord: [jgc9884](./discord/)
 - YouTube: [Jgc7](./youtube/)
-- All my socials: [guns.lol/jgc](https://guns.lol/jgc)
+- More socials: [guns.lol/jgc](https://guns.lol/jgc)
 
 ### My public GitHub repositories
 <ul style="list-style: none;">
