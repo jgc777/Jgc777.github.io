@@ -12,8 +12,10 @@
     */
   document.body.style.display = 'none';
   };
-  setTimeout(function() {document.querySelectorAll("a").forEach(link => {
+  setTimeout(function() {
+    document.querySelectorAll("a").forEach(link => {
       link.setAttribute("target", "_blank"); // Open links in new tab
-      document.body.style.display = 'block';
-  });}, 500);
+    });
+    document.body.style.display = 'block';
+  }, 500);
 </script>
