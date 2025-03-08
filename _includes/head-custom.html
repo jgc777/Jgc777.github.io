@@ -2,20 +2,22 @@
 <link rel="icon" type="image/x-icon" href="https://jgc.linkpc.net/favicon.ico">
 <script src="https://jgc.linkpc.net/GitHubRepoAPI/simplified.js"></script>
 <script type="text/javascript">
-  window.onload = function() {
+  document.addEventListener("DOMContentLoaded", function() {
     var titleElement = document.getElementById('title');
     titleElement?.remove();
     /*
     var headerElement = document.getElementById('header');
     headerElement?.remove();
-    window.onload = function() {document.getElementsByClassName('credits right')[0].innerHTML = 'Hosted on GitHub Pages - Theme by mattgraham';};
+    document.getElementsByClassName('credits right')?[0].innerHTML = 'Hosted on GitHub Pages - Theme by mattgraham';
     */
-  document.body.style.display = 'none';
-  };
-  setTimeout(function() {
+  });
+
+  function updateLinks() {
     document.querySelectorAll("a").forEach(link => {
       link.setAttribute("target", "_blank"); // Open links in new tab
     });
-    document.body.style.display = 'block';
-  }, 500);
+  }
+  updateLinks();
+  const observer = new MutationObserver(updateLinks);
+  observer.observe(document.body, { childList: true, subtree: true });
 </script>
