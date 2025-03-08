@@ -9,4 +9,11 @@
     // var headerElement = document.getElementById('header');
     // headerElement?.remove();
   };
+  if (window.self !== window.top) { // If the page is in an iframe
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll("a").forEach(enlace => {
+        enlace.setAttribute("target", "_blank"); // Open links in new tab
+      });
+    });
+  }
 </script>
