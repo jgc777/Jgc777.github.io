@@ -10,13 +10,13 @@
     headerElement?.remove();
     document.getElementsByClassName('credits right')?[0].innerHTML = 'Hosted on GitHub Pages - Theme by mattgraham';
     */
-  function updateLinks() {
-    document.querySelectorAll("a").forEach(link => {
-      link.setAttribute("target", "_blank"); // Open links in new tab
-    });
-  }
-  updateLinks();
-  const observer = new MutationObserver(updateLinks);
-  observer.observe(document.body, { childList: true, subtree: true });
+    function updateLinks() {
+      document.querySelectorAll("a").forEach(link => {
+        link.setAttribute("target", "_blank"); // Open links in new tab
+      });
+    }
+    updateLinks();
+    const observer = new MutationObserver(updateLinks);
+    observer.observe(document.body, { childList: true, subtree: true });
   });
 </script>
