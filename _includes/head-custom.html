@@ -12,6 +12,9 @@
     */
   };
   document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("a").forEach(enlace => {
+      enlace.setAttribute("target", "_blank"); // Open links in new tab
+    });
     while (document.getElementById("repo-list").children.length = 0) sleep(2500);
     document.querySelectorAll("a").forEach(enlace => {
       enlace.setAttribute("target", "_blank"); // Open links in new tab
