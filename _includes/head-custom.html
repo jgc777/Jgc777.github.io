@@ -2,18 +2,14 @@
 <link rel="icon" type="image/x-icon" href="https://jgc.linkpc.net/favicon.ico">
 <script src="https://jgc.linkpc.net/GitHubRepoAPI/simplified.js"></script>
 <script type="text/javascript">
-  // window.onload = function() {document.getElementsByClassName('credits right')[0].innerHTML = 'Hosted on GitHub Pages - Theme by mattgraham';};
-  window.onload = function() {
+  window.onload += function() {
+    document.querySelectorAll("a").forEach(link => {link.setAttribute("target", "_blank");}); // Open all links in new tab
     var titleElement = document.getElementById('title');
     titleElement?.remove();
-    // var headerElement = document.getElementById('header');
-    // headerElement?.remove();
+    /*
+    var headerElement = document.getElementById('header');
+    headerElement?.remove();
+    window.onload = function() {document.getElementsByClassName('credits right')[0].innerHTML = 'Hosted on GitHub Pages - Theme by mattgraham';};
+    */
   };
-  if (window.self !== window.top) { // If the page is in an iframe
-    document.addEventListener("DOMContentLoaded", function () {
-      document.querySelectorAll("a").forEach(enlace => {
-        enlace.setAttribute("target", "_blank"); // Open links in new tab
-      });
-    });
-  }
 </script>
