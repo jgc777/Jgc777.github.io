@@ -11,11 +11,9 @@
     window.onload = function() {document.getElementsByClassName('credits right')[0].innerHTML = 'Hosted on GitHub Pages - Theme by mattgraham';};
     */
   document.body.style.display = 'none';
-    setTimeout(function() {
-      document.querySelectorAll("a").forEach(link => {
-        link.setAttribute("target", "_blank"); // Open links in new tab
-        document.body.style.display = 'block';
-    });
-  }, 500);
   };
+  setTimeout(function() {document.querySelectorAll("a").forEach(link => {
+      link.setAttribute("target", "_blank"); // Open links in new tab
+      document.body.style.display = 'block';
+  });}, 500);
 </script>
