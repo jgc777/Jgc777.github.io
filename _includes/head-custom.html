@@ -2,7 +2,7 @@
 <link rel="icon" type="image/x-icon" href="https://jgc.linkpc.net/favicon.ico">
 <script src="https://jgc.linkpc.net/GitHubRepoAPI/simplified.js"></script>
 <script type="text/javascript">
-  window.onload += function() {
+  window.onload = function() {
     document.querySelectorAll("a").forEach(link => {link.setAttribute("target", "_blank");}); // Open all links in new tab
     var titleElement = document.getElementById('title');
     titleElement?.remove();
