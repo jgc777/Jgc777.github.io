@@ -11,13 +11,9 @@
     window.onload = function() {document.getElementsByClassName('credits right')[0].innerHTML = 'Hosted on GitHub Pages - Theme by mattgraham';};
     */
   };
-  document.addEventListener("DOMContentLoaded", function () {
+  setTimeout(function() {
     document.querySelectorAll("a").forEach(link => {
       link.setAttribute("target", "_blank"); // Open links in new tab
     });
-    sleep(5000);
-    document.querySelectorAll("a").forEach(enlace => {
-      enlace.setAttribute("target", "_blank"); // Open links in new tab
-    });
-  });
+  }, 5000);
 </script>
