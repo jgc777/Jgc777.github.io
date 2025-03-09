@@ -20,3 +20,25 @@
     observer.observe(document.body, { childList: true, subtree: true });
   });
 </script>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    td, tr {
+        user-select: none;
+        pointer-events: none;
+        -webkit-user-drag: none;
+        border: none;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        tbody {
+            display: block;
+        }
+        tr, td {
+            display: block;
+            width: 100%;
+        }
+    }
+</style>
