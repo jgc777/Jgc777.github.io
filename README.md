@@ -23,12 +23,37 @@
 <ul id="repo-list"></ul>
 
 <table>
-    <tr>
-        <td>
-            <img  src="https://discord-readme-badge.vercel.app/api?id=889045882874495036" width="300px" alt="Discord Status" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);" draggable="false">
-        </td>
-        <td>
-            <iframe src="https://free.timeanddate.com/clock/i9r3azjl/n141/fs30/fcfff/tct/pct/ftbi/th1/ts1/ta1" frameborder="0" width="150" height="35" allowtransparency="true" alt="Jgc7's Clock" style="pointer-events: none; user-select:none;"></iframe>
-        </td>
-    </tr>
+    <tbody>
+        <tr>
+            <td>
+                <img  src="https://discord-readme-badge.vercel.app/api?id=889045882874495036" width="300px" alt="Discord Status" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);">
+            </td>
+            <td>
+                <iframe src="https://free.timeanddate.com/clock/i9r3azjl/n141/fs30/fcfff/tct/pct/ftbi/th1/ts1/ta1" frameborder="0" width="150" height="35" allowtransparency="true" alt="Jgc7's Clock"></iframe>
+            </td>
+        </tr>
+    </tbody>
 </table>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    td, tr {
+        user-select: none;
+        pointer-events: none;
+        -webkit-user-drag: none;
+        border: none;
+        padding: 10px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        tbody {
+            display: block;
+        }
+        tr, td {
+            display: block;
+            width: 100%;
+        }
+    }
+</style>
