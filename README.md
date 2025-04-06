@@ -34,3 +34,7 @@
         </tr>
     </tbody>
 </table>
+
+<center>
+<a href="http://dnsexit.com"><img src="http://dnsexit.com/images/dns2.gif" border=0></a>
+</center>
