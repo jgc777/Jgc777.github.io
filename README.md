@@ -2,13 +2,11 @@
 
 
 ### What do I like
-- Windows
-- Kali Linux & pentesting
-- Fortnite & Minecraft
-- C# & JavaScript
-- Video editing
-- Movies
-- Music & guitars
+- Cybersecurity
+- Videogames (Fortnite, Minecraft, Asphalt...)
+- Programming (C, C#, JavaScript...)
+- Video editing & Movies
+- Music & guitar
 - Engineering & Maths
 
 ### How to reach me
@@ -16,7 +14,6 @@
 - GitHub: [jgc777](./github/)
 - Discord: [jgc9884](./discord/)
 - YouTube: [Jgc7](./youtube/)
-- More socials: [guns.lol/jgc](https://guns.lol/jgc)
 
 ### My public GitHub repositories
 <a hidden href="https://Jgc777.github.io">The list is only available on the web!</a>
