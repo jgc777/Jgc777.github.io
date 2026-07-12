@@ -10,7 +10,7 @@
 - Engineering & Maths
 
 ### How to reach me
-- Email: [jgc@jgc.linkpc.net](mailto:jgc@jgc.linkpc.net)
+- Email: [jgc-7@outlook.com](mailto:jgc-7@outlook.com)
 - GitHub: [jgc777](./github/)
 - Discord: [jgc9884](./discord/)
 - YouTube: [Jgc7](./youtube/)
