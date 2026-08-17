@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm *Jgc7*
-
+[![Hits](https://hits.sh/github.com/jgc777.svg?style=for-the-badge&label=Views%20since%2017%2F08%2F2026&color=007ec6&logo=github)](https://hits.sh/github.com/jgc777/)
 
 ### What do I like
 - Cybersecurity
