@@ -1,3 +1,7 @@
+
+<div id="android-banner"></div>
+<script src="https://keepandroidopen.org/banner.js?lang=en&id=android-banner&hidebutton=off"></script>
+
 ## 👋 Hi, I'm *Jgc7*
 
 ### What do I like
