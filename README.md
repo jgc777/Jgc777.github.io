@@ -1,5 +1,5 @@
 
-<div id="android-banner"></div><br><br>
+<div id="android-banner"></div><br>
 
 ## 👋 Hi, I'm *Jgc7*
 
@@ -12,7 +12,7 @@
 
 ### How to reach me
 - Email: [jgc-7@outlook.com](mailto:jgc-7@outlook.com)
-- GitHub: [jgc777](./github/)
+- GitHub: [jgc777](https://github.com/jgc777/)
 
 ### My public GitHub repositories
 <a hidden href="https://Jgc777.github.io">The list is only available on the web!</a>
