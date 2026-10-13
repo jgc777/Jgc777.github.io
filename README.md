@@ -1,12 +1,11 @@
 
-<div id="android-banner"></div>
+<div id="android-banner"></div><br><br>
 
 ## 👋 Hi, I'm *Jgc7*
 
 ### What do I like
-- Cybersecurity
+- Cybersecurity & Programming
 - Videogames
-- Programming
 - Video editing & Movies
 - Music & guitar
 - Engineering & Maths
